@@ -8,4 +8,3 @@ def greetings(language): #function that is just remembered by python
 # end of function that is recorded by python
 
 greetings('fr') # invoke of function depending on chosen 'es'/'fr'/'other' language
- 
