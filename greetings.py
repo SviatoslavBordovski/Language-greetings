@@ -1,4 +1,4 @@
-def greetings(language): #function that is just remembered by python    
+def greetings(language): #function that is just remembered by python      
     if language == 'es':
         print('Hola, muchachos! =)')
     elif language == 'fr':
